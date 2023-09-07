@@ -1,0 +1,12 @@
+fragment PostParts on Post {
+  author
+  title
+  postSlug
+  description
+  pubDatetime
+  featured
+  draft
+  tags
+  ogImage
+  body
+}
