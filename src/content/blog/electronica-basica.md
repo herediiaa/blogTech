@@ -10,7 +10,7 @@ tags:
 ogImage: ""
 description:
   Este es el primer paso para iniciarse en el mundo de la electronica entendiendo conceptos basicos como la corriente electrica y la tension. 
-  theme.
+  
 
 ---
 # Introducción a la Electrónica: Descifrando el Mundo de los Circuitos  
