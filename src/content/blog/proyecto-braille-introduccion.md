@@ -4,7 +4,7 @@ pubDatetime: 2023-07-17T9:22:00Z
 title: Impresora Braille Inicios
 postSlug: adding-new-posts-in-astropaper-theme
 featured: true
-draft: false
+draft: true
 tags:
   - proyectos
   - electronica
