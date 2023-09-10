@@ -1,3 +1,4 @@
+import { TrashIcon } from "tinacms";
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
@@ -23,7 +24,7 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Github",
     href: "https://github.com/herediiaa",
-    linkTitle: ` Emmanuel Heredia on Github`,
+    linkTitle: `Emmanuel Heredia en Github`,
     active: true,
   },
   {
@@ -40,14 +41,14 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    active: false,
+    href: "www.linkedin.com/in/emmanuel-heredia",
+    linkTitle: `${SITE.author} en LinkedIn`,
+    active: true,
   },
   {
     name: "Mail",
     href: "mailto:herediiaa.e@gmail.com",
-    linkTitle: `Send an email to Emmanuel Heredia`,
+    linkTitle: `Mandame un Gmail`,
     active: true,
   },
   {
@@ -64,9 +65,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "YouTube",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on YouTube`,
-    active: false,
+    href: "https://youtube.com/playlist?list=PLYn47D1ZN5ml6Geglw_-mckq3AXkJQh8A&si=GxuXbsUIDT5cJZ7t",
+    linkTitle: `${SITE.author} en YouTube`,
+    active: true,
   },
   {
     name: "WhatsApp",
