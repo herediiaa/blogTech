@@ -176,6 +176,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"linux-introduccion.md": {
+	id: "linux-introduccion.md";
+  slug: "linux-introduccion";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "proyecto-braille-introduccion.md": {
 	id: "proyecto-braille-introduccion.md";
   slug: "proyecto-braille-introduccion";

@@ -14,7 +14,7 @@ description:
   
 
 ---  
-En este artículo, compartiré los inicios de nuestro proyecto de Impresora Braille y cómo evolucionó con el tiempo .
+En este artículo, compartiré los inicios de nuestro proyecto de Impresora Braille y cómo evolucionó con el tiempo.
 
 ## Table of contents
 
