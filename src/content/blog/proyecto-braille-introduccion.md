@@ -4,7 +4,7 @@ pubDatetime: 2023-07-17T9:22:00Z
 title: Impresora Braille Inicios
 postSlug: adding-new-posts-in-astropaper-theme
 featured: true
-draft: true
+draft: false
 tags:
   - proyectos
   - electronica
@@ -14,7 +14,7 @@ description:
   
 
 ---  
-En este artículo, compartiré los inicios de nuestro proyecto de Impresora Braille y cómo evolucionó con el tiempo
+En este artículo, compartiré los inicios de nuestro proyecto de Impresora Braille y cómo evolucionó con el tiempo .
 
 ## Table of contents
 
@@ -34,6 +34,8 @@ Nuestra idea era esta: convertir una impresora llena de polvo del año **1991** 
 El rumbo lo teniamos trazado, convertila en algo diferente, pero nos tocaba ver en que condiciones estaba esa impresora. Modelo Epson LX-810, una maquina que fue la ultima en su generacion lanzada en  *1991*. Su estado en el taller era el siguiente:  
 ![imagen ilustrativa de impresora](https://media.taringa.net/knn/fit:550/Z3M6Ly9rbjMvdGFyaW5nYS8yLzgvQS9CL0IvMi9hbmRyZXMyMjIvMzIwLmpwZw)  
 llena de polvo por dentro, con las guias del motor que se mueve en horizontal un poco oxidado, con muchos golpes en su carcasa.  
+
+![Imagen de la epson por dentro](http://2.bp.blogspot.com/_ua0Gbw30iC4/TG70FcAUTuI/AAAAAAAAAFA/w2GfzOyZ7Ug/s1600/IMG_0633.JPG)
   
 ## Organizacion  
 Si bien sabiamos que ibamos a usar la impresora nadie sabia siquiera como funcionaba, por lo que nos pusimos a descomponer la impresora, ver sus partes y buscar el manual tecnico.  
@@ -122,6 +124,9 @@ La **CPU** y **Matriz** se comportan de una manera determinada, ya están progra
   
 ### Mecánica de impresión  
 El mecánisco de impresión involucra **motores**, **sensores**, **bobinas**, **rieles** y **engranajes**.  
+
+
+![Imagen de la mecanica ](http://2.bp.blogspot.com/_ua0Gbw30iC4/TG71X_eC5pI/AAAAAAAAAFg/HLEUcKywW1I/s320/IMG_0652.JPG)
 
 
 El sistema se compone principalmente de 2 motores paso a paso. 
