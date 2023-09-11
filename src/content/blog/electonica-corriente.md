@@ -1,7 +1,7 @@
 ---
 author:  Emmanuel Heredia
 pubDatetime:  2023-04-10T11:46:00Z
-title:  Corriente continua y Corriente Alterna
+title:  Corriente Continua y Corriente Alterna
 postSlug:  Corriente-continua-Corriente-Alterna
 featured:  true
 draft:  false
@@ -10,7 +10,7 @@ tags:
 
 ogImage:  ""
 description:
-En el primer articulo hablamos sobre que es la corriente, tension y la resistencia, en este articlo hablaremos en profundidad sobre 2 tipos de fundamentales de electricidad Corriente Continua y Corriente Altena.
+    En el primer articulo hablamos sobre que es la corriente, tension y la resistencia, en este articlo hablaremos en profundidad sobre 2 tipos de fundamentales de electricidad Corriente Continua y Corriente Altena.
 
   
 
