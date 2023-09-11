@@ -14,7 +14,7 @@ tags:
 
 ogImage: ""
 description:
-    El primer articulo sobre mi experiencia en el programa **Samsung Tech School Reparacion de Heladeras y Lavarropas**, un programa que promete capacitarnos sobre la reparacion y mantenimiento de la linea blanca de Samsung dentro de sus instalaciones en su fabrica de cañuelas. 
+    El primer articulo sobre mi experiencia en el programa Samsung Tech School Reparacion de Heladeras y Lavarropas, un programa que promete capacitarnos sobre la reparacion y mantenimiento de la linea blanca de Samsung dentro de sus instalaciones en su fabrica de cañuelas. 
   
 
 ---
