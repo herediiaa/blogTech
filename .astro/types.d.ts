@@ -183,6 +183,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"heladera-funcionamiento.md": {
+	id: "heladera-funcionamiento.md";
+  slug: "heladera-funcionamiento";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "linux-introduccion.md": {
 	id: "linux-introduccion.md";
   slug: "linux-introduccion";
