@@ -197,6 +197,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"primera-etapa-samsung.md": {
+	id: "primera-etapa-samsung.md";
+  slug: "primera-etapa-samsung";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "primera-impresion-samsung.md": {
 	id: "primera-impresion-samsung.md";
   slug: "primera-impresion-samsung";

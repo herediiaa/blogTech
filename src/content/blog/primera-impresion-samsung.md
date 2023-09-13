@@ -1,7 +1,7 @@
 ---
 author: Emmanuel Heredia
 pubDatetime: 2023-09-4T12:50:00Z
-title: Samsung Tech School Primera Impresion 
+title: Samsung Tech School Impresion 
 postSlug: Samsung-Tech-School-Primera-Impresion
 featured: true
 draft: false

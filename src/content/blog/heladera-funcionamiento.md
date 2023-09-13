@@ -19,12 +19,12 @@ description:
 
 
 ---
-Para entender cómo funciona la heladera hay que tener en cuenta esto: *"ninguna máquina genera frío, todas las máquinas generan calor y el calor no puede desaparecer así como si nada"*. ¿Por qué digo esto? Pq quizá estés pensando que hay un motor que genera frío dentro de la heladera y es muchísimo más complejo que eso.
+Para entender cómo funciona la heladera hay que tener en cuenta esto: *"ninguna máquina genera frío, todas las máquinas generan calor y el calor no puede desaparecer así como si nada"*. ¿Por qué digo esto? Por que quizá estés pensando que hay un motor que genera frío dentro de la heladera y es muchísimo más complejo que eso.
 ![Heladera](https://images.samsung.com/is/image/samsung/assets/ar/refrigerators/720x850-2.jpg?$720_850_JPG$)
 Lo que se encuentra dentro de la heladera es un **sistema de refrigeración** y te voy a explicar con varios ejemplos y de una forma sencilla cómo es que un gas puede hacer que tus alimentos duren meses sin descomponerse.
 La heladera se compone por un círculo de tuberías por donde un producto refrigerante circula todo el tiempo. Este producto es un gas que se convierte en líquido en algunas etapas y se vuelve a convertir en gas.
 ## ¿Cómo es eso y para qué sirve?
-Cómo dije al principio, ninguna máquina genera frío y eso en 1800 lo tenían muy claro. Químicos y Físicos la pensaron demasiado para ver cómo podían hacer que de una máquina se obtenga **frío** y se dieron cuenta de una cosa.
+Cómo dije al principio, ninguna máquina genera frío y eso en siglo XVIII lo tenían muy claro. Químicos y Físicos la pensaron demasiado para ver cómo podían hacer que de una máquina se obtenga **frío** y se dieron cuenta de una cosa.
 Según una ley de los gases ideales, cuando un **gas se comprime este aumenta de temperatura y cuando se descomprime su temperatura baja**, por ejemplo si nos damos cuenta al usar el inflador, cuando nosotros bombeamos el inflador se calienta y esto es debido a que el aire en sí es un gas y como lo estamos comprimiendo este aumenta de temperatura por consecuencia el inflador se calienta.
 Pasando a limpio, empujó el gas se comprime y se calienta, descomprimo el inflador el gas se descomprime y su temperatura baja.
 Vos me dirás "si el gas se calienta cuando se comprime, el gas cuando se descomprime vuelve a su anterior temperatura" y si eso es así pero qué pasa si nosotros **esperamos** con el gas comprimido a que se enfríen, este en su temperatura inicial y luego lo descomprimimos, obtendremos menor temperatura de la inicial.
