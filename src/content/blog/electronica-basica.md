@@ -3,7 +3,7 @@ author: Emmanuel Heredia
 pubDatetime: 2023-03-23T15:22:00Z
 title: Introduccion a la Electronica 
 postSlug: introduccion-a-la-electronica
-featured: true
+featured: false
 draft: false
 tags:
   - electronica

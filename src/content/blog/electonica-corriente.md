@@ -3,7 +3,7 @@ author:  Emmanuel Heredia
 pubDatetime:  2023-04-10T11:46:00Z
 title:  Corriente Continua y Corriente Alterna
 postSlug:  Corriente-continua-Corriente-Alterna
-featured:  true
+featured:  false
 draft:  false
 tags:
 -  electronica
