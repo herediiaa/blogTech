@@ -12,7 +12,7 @@ tags:
 - bobinado
 ogImage: ""
 description:
-Los transformadores eléctricos son componentes fundamentales en los sistemas de distribución de energía eléctrica. Su función principal es modificar el voltaje de la corriente eléctrica, ya sea aumentando o disminuyendo, lo que permite transmitir la energía de manera eficiente a través de largas distancias.
+    Los transformadores eléctricos son componentes fundamentales en los sistemas de distribución de energía eléctrica. Su función principal es modificar el voltaje de la corriente eléctrica, ya sea aumentando o disminuyendo, lo que permite transmitir la energía de manera eficiente a través de largas distancias.
 ---
 # Transformadores
 Los transformadores sirven para modificar la tensión, tanto como aumentar la tensión cómo reducirla. En este Artículo trataré de explicarlo de la forma más detallada posible para que entiendan mejor este componente fundamental para los Electrónicos y Electricistas.
