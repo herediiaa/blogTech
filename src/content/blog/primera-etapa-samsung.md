@@ -10,6 +10,7 @@ tags:
 - heladera
 - lavarropas
 - tech-school
+- samsung
 
 
 ogImage: ""
