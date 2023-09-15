@@ -49,7 +49,7 @@ El **Compresor** libera el gas con presión y temperatura, el **condensador** en
 
 
 
-En el **evaporador**, el refrigerante líquido se expande a través de una válvula de expansión, lo que reduce su presión y temperatura. Esto hace que el refrigerante se evapore, convirtiéndose en gas en el proceso. Para evaporar, el refrigerante absorbe calor del interior de la heladera y de los alimentos que hay ahí. La evaporación es la transformación de un líquido a estado gaseoso, en el caso del líquido refrigerante lo hace por la descompresión que se le genera al gas por la válvula de expansión. En el ejemplo del inflador esta parte sería la de descomprimir el inflado.
+En el **evaporador**, el refrigerante líquido se **expande** a través de una válvula de expansión, lo que reduce su presión y temperatura. Esto hace que el refrigerante se evapore, convirtiéndose en gas en el proceso. Para evaporar, el refrigerante **absorbe calor del interior de la heladera** y de los alimentos que hay ahí. La evaporación es la transformación de un líquido a estado gaseoso, en el caso del líquido refrigerante lo hace por la descompresión que se le genera al gas por la válvula de expansión. En el ejemplo del inflador esta parte sería la de descomprimir el inflado.
 
 
 Finalizando la etapa de Evaporación el gas sin temperatura ya y sin presión vuelve a entrar en el motor compresor para repetir el ciclo de refrigeración.
@@ -61,9 +61,10 @@ Finalizando la etapa de Evaporación el gas sin temperatura ya y sin presión vu
 ## Componentes Principales
 
 
-- **Motor Compresor:** La tarea principal del motor compresor es la de comprimir el gas entrante y desplazarse por el sistema de refrigeración.
-- **Condensador:** El Condensador es parte fundamental del sistema, este es el encargado de llevar nuestro refrigerante y transfiera la temperatura generada por la presión que se le fue ejercida.
-- **Válvula de Expansión y Evaporador:** Reducir la presión del refrigerante proveniente de la etapa de condensación es función de la valvula de expasion, regula la presión antes de que entre en la etapa de evaporación, como el refrigerante se expande comienza a evaporarse al absorber el calor del ambiente o de los objetos dentro del evaporador. Esto es lo que enfría el área circundante.
+- **Motor Compresor:** La tarea principal del motor compresor es la de comprimir el gas entrante y desplazarse por el sistema de refrigeración. El compresor toma el refrigerante a **baja presion** y estado gaseoso proveniente de la parte baja (etapa evaporadora) y la expulsa a **presion alta** con temperatura a alta(Condensador)
+- **Condensador:** El Condensador es una regilla ubicada atras de la heladera o en las mas modernas van por dentro para mas estetica. Su funcion es transeferir el calor del refrigerante al ambiente para que pueda bajar su temperatura pero **siempre manteniendo su presion**, su conexion puede variar en ciertos modelos pero la funcion siempre es la misma. 
+- **Filtro Deshidratador:** El filtro es un componente muy eficaz a la hora de filtrar y eliminar impurezas del refrigerante, tambien le quita toda la humedad que pueda llegar a tener. El filtro en un circuito totalmente nuevo deberia no tener mucha presencia, pero si la heladera llega a tener alguna reparacion donde se necesiten soldar el circuito, el filtro se encarga de eliminar cualquier basura que pueda llegar a sobrar de la soldadura. Adentro contiene bolitas de **Gel Silica** 
+- **Válvula de Expansión y Evaporador:** Reducir la presión del refrigerante proveniente de la etapa de condensación es función de la valvula de expasion, **regula la presión antes de que entre en la etapa de evaporación**, como el refrigerante se expande comienza a evaporarse al absorber el calor del ambiente o de los objetos dentro del evaporador. Esto es lo que enfría el área circundante. 
 
 
 Espero que la idea de cómo funciona la heladera les haya quedado clara, el circuito refrigerante puede variar un poco pero el principio térmico siempre es el mismo. Muchos aires acondicionados tienen el mismo principio, proximamente estaré subiendo como funcionan.
