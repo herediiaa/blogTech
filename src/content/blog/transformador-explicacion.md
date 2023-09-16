@@ -10,7 +10,7 @@ tags:
 - electricidad
 - funcionamiento
 - bobinado
-ogImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChxYVfgAQmO66sYhj1OtDvmlDQBgZPMQ1Dw&usqp=CAU"
+ogImage: ""
 description:
     Los transformadores eléctricos son componentes fundamentales en los sistemas de distribución de energía eléctrica. Su función principal es modificar el voltaje de la corriente eléctrica, ya sea aumentando o disminuyendo, lo que permite transmitir la energía de manera eficiente a través de largas distancias.
 ---

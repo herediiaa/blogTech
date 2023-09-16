@@ -13,7 +13,7 @@ tags:
 
 
 
-ogImage: ""
+ogImage: "https://www.centerhogar.com.ar/2473-large_default/heladera-neba-a-280-ciclica-2-frios-280-lts.jpg"
 description:
     La heladera es un electrodoméstico que en la mayoría de las casas habita, entender el funcionamiento puede ser útil en casos en los que nuestra heladera no funciona.
 
