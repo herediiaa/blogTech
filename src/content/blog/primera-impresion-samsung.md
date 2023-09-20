@@ -62,7 +62,7 @@ El programa tuvo un miercoles 28/8 con un **zoom estilo informativo** que era pa
 
 **Mi experiencia** en esta primera parte que voy a llamar "Primera Impresion" **fue mejor de la que esperaba**, toda la seriedad que imaginaba con respecto al proyecto se vio reflejada en el primer encuentro, en todo momento recalcaron que se hacia para nuestra carrera profesional en el ambito empresarial y tecnico. **Se vieron las ganas de querer hacer esto con nosotros** y nos dieron una introduccion a un campus virtual donde se subirian futuras actividades para nosotros. 
 
-En el **proximo articulo** subire como fue mi experiencia en la primera etapa *Teoria General" sobre Heladeras y Lavarropas.
+En el **proximo articulo** subire como fue mi experiencia en la primera etapa [Teoria General](https://herediiaa.website/posts/samsung-tech-school-primera-etapa/) sobre Heladeras y Lavarropas.
 
 
 

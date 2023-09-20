@@ -139,5 +139,5 @@ Cerrando un poco lo que es este artículo quiero algo final, me motivó muchísi
 
   
 
-En los próximos artículos estate subiendo mí experiencia en la etapa de "Teoría Aplicada".
+En los próximos artículos estate subiendo mí experiencia en la etapa de **"Teoría Aplicada"**.
 
