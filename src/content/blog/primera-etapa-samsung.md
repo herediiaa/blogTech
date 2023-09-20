@@ -182,12 +182,14 @@ Los profesores la verdad unos capos en todo momento se los notaba felices y que 
 
 
 
-Cerrando un poco lo que es este artículo quiero algo final, me motivó muchísimo estar haciendo esta capacitación, me incentivo a querer saber más sobre el funcionamiento específico de las heladeras y empecé a leer artículos por mí cuenta para ver cómo la gente reparaba los fallos más frecuentes en las heladeras y me dio una idea de cómo se ven por dentro.
+Cerrando un poco lo que es este artículo quiero decir algo final, me motivó muchísimo estar haciendo esta capacitación, me incentivo a querer saber más sobre el funcionamiento específico de las heladeras y empecé a leer artículos por mí cuenta para ver cómo la gente reparaba los fallos más frecuentes en las heladeras y me dio una idea de cómo se ven por dentro.
 
 
 
 
-En los próximos artículos estate subiendo mí experiencia en la etapa de **"Teoría Aplicada"**.
+En los próximos artículos estate subiendo mí experiencia en la etapa de **"Teoría Aplicada"**. Se va a llevar a cabo en las instalaciones de Visuar S.A en el partido de cañuelas, específicamente en el Parque Industrial Cañuelas. Esta etapa va a ser la más importante junto con la última ya que ahí vamos a tener instructores y especialista de la planta que nos van a capacitar trabajando y viendo los componentes de las Heladeras y Lavarropas.
+
+
 
 
 
